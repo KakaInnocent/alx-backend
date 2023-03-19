@@ -5,4 +5,4 @@
 [Cache replacement policies - LIFO](https://en.wikipedia.org/wiki/Cache_replacement_policies#Last_In_First_Out_%28LIFO%29) </br>
 [Cache replacement policies - LRU](https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_Recently_Used_%28LRU%29) </br>
 
-LIFO is last in first out
+*LIFO* is Last In First Out
