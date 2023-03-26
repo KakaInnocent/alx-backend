@@ -6,3 +6,4 @@
 [Cache replacement policies - LRU](https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_Recently_Used_%28LRU%29) </br>
 
 *LIFO* is Last In First Out
+*FIFO* is First In First Out
